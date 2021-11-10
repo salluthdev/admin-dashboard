@@ -79,6 +79,10 @@ img
 	justify-content: space-between;
 	align-items: center;
 }
+.sidebar-menu a
+{
+	color: var(--main-text);
+}
 .main-content
 {
 	width: calc(100vw - 345px);
