@@ -57,7 +57,10 @@ img
 }
 .brand h2 span
 {
+	display: inline-block;
+	font-size: 2.5rem;
 	color: var(--color-main);
+	margin-right: 0.5rem;
 }
 .main-content
 {
