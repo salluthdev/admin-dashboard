@@ -3,6 +3,7 @@
 {
 	--color-main: #396aff;
 	--bg: #fbfefd;
+	--bg2: #dce5ff;
 	--main-accent: #e9eefd;
 	--main-text: #4b5876;
 	--shadow: rgba(17, 17, 26, 0.1) 2px 2px 16px;
@@ -20,7 +21,7 @@
 }
 body
 {
-	background: var(--bg);
+	background: var(--bg2);
 	overflow-x: hidden;
 }
 #menu-toggle
