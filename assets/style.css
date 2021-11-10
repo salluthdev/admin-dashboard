@@ -79,6 +79,10 @@ img
 	justify-content: space-between;
 	align-items: center;
 }
+.sidebar-menu li
+{
+	margin-bottom: 1.2rem;
+}
 .sidebar-menu a
 {
 	color: var(--main-text);
