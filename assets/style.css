@@ -19,6 +19,7 @@
 body
 {
 	background: var(--bg);
+	overflow-x: hidden;
 }
 #menu-toggle
 {
