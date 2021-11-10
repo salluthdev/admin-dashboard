@@ -51,9 +51,13 @@ img
 	box-shadow: var(--shadow);
 	padding: 1.2rem;
 }
-.brand
+.brand h2
 {
-	padding-top: 1rem;
+	color: #444;
+}
+.brand h2 span
+{
+	color: var(--color-main);
 }
 .main-content
 {
