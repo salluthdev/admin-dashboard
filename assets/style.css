@@ -16,3 +16,7 @@
 	font-family: 'Poppins', sans-serif;
 	transition: 0.5s;
 }
+body
+{
+	background: var(--bg);
+}
