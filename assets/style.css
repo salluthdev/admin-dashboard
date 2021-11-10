@@ -55,4 +55,5 @@ img
 {
 	width: calc(100vw - 345px);
 	margin-left: 345px;
+	padding: 1rem 1.2rem;
 }
