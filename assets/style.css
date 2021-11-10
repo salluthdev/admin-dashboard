@@ -83,6 +83,13 @@ img
 {
 	color: var(--main-text);
 }
+.sidebar-menu a span:first-child
+{
+	display: inline-block;
+	font-size: 1.2rem;
+	color: var(--color-main);
+	margin-right: 0.8rem;
+}
 .main-content
 {
 	width: calc(100vw - 345px);
