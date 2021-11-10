@@ -91,7 +91,8 @@ img
 .sidebar-menu a.active
 {
 	background: var(--main-accent);
-	border-radius: 10px;
+	border-radius: 7px;
+	padding: 0.8rem;
 }
 .sidebar-menu a span:first-child
 {
