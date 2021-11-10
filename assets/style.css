@@ -68,6 +68,9 @@ img
 	display: grid;
 	grid-template-columns: 70px auto;
 	align-items: center;
+	padding: 1rem 0.5rem;
+	border: 1px solid #ccc;
+	border-radius: 7px;
 }
 .avatar-info
 {
