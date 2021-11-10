@@ -20,6 +20,10 @@ body
 {
 	background: var(--bg);
 }
+#menu-toggle
+{
+	display: none;
+}
 .sidebar
 {
 	position: fixed;
