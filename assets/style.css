@@ -85,7 +85,13 @@ img
 }
 .sidebar-menu a
 {
+	display: block;
 	color: var(--main-text);
+}
+.sidebar-menu a.active
+{
+	background: var(--main-accent);
+	border-radius: 10px;
 }
 .sidebar-menu a span:first-child
 {
