@@ -68,8 +68,9 @@ img
 	display: grid;
 	grid-template-columns: 70px auto;
 	align-items: center;
+	margin: 3rem 0;
 	padding: 1rem 0.5rem;
-	border: 1px solid #ccc;
+	border: 2px solid var(--main-accent);
 	border-radius: 7px;
 }
 .avatar-info
