@@ -42,3 +42,8 @@ body
 	border-radius: 10px;
 	box-shadow: var(--shadow);
 }
+.main-content
+{
+	width: calc(100vw - 345px);
+	margin-left: 345px;
+}
