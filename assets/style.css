@@ -51,6 +51,12 @@ img
 	box-shadow: var(--shadow);
 	padding: 1.2rem;
 }
+.brand
+{
+	display: flex;
+	align-items: center;
+	height: 80px;
+}
 .main-content
 {
 	width: calc(100vw - 345px);
