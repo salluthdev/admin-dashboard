@@ -53,9 +53,7 @@ img
 }
 .brand
 {
-	display: flex;
-	align-items: center;
-	height: 80px;
+	padding-top: 1rem;
 }
 .main-content
 {
