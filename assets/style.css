@@ -20,3 +20,8 @@ body
 {
 	background: var(--bg);
 }
+.sidebar
+{
+	width: 345px;
+	height: 100%;
+}
