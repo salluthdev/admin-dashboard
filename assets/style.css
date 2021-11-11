@@ -109,10 +109,6 @@ img
 	padding: 1rem;
 	border-radius: 7px;
 }
-.sidebar-card img
-{
-	
-}
 .main-content
 {
 	width: calc(100vw - 345px);
