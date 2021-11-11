@@ -104,6 +104,13 @@ img
 }
 .sidebar-card
 {
+	background: var(--main-accent);
+	text-align: center;
+	padding: 1rem;
+	border-radius: 7px;
+}
+.sidebar-card img
+{
 	
 }
 .main-content
