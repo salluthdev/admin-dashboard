@@ -81,23 +81,24 @@ img
 }
 .sidebar-menu li
 {
-	margin-bottom: 1.2rem;
+	margin-bottom: 0.2rem;
 }
 .sidebar-menu a
 {
 	display: block;
 	color: var(--main-text);
+	padding: 0.7rem 0;
 }
 .sidebar-menu a.active
 {
 	background: var(--main-accent);
 	border-radius: 7px;
-	padding: 0.8rem;
+	padding: 0.7rem;
 }
 .sidebar-menu a span:first-child
 {
 	display: inline-block;
-	font-size: 1.2rem;
+	font-size: 1.5rem;
 	color: var(--color-main);
 	margin-right: 0.8rem;
 }
