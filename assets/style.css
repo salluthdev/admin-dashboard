@@ -107,8 +107,9 @@ img
 {
 	background: var(--main-accent);
 	text-align: center;
+	margin-top: 2rem;
 	padding: 1rem;
-	border-radius: 7px;
+	border-radius: 10px;
 }
 .main-content
 {
