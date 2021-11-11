@@ -68,8 +68,8 @@ img
 	display: grid;
 	grid-template-columns: 70px auto;
 	align-items: center;
-	margin: 2.5rem 0;
-	padding: 1rem 0.7rem;
+	margin: 2rem 0;
+	padding: 0.1rem 0.7rem;
 	border: 2px solid var(--main-accent);
 	border-radius: 7px;
 }
@@ -101,6 +101,10 @@ img
 	font-size: 1.5rem;
 	color: var(--color-main);
 	margin-right: 0.8rem;
+}
+.sidebar-card
+{
+	
 }
 .main-content
 {
