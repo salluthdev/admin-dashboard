@@ -122,6 +122,19 @@ img
 	font-size: 8rem;
 	color: var(--color-main);
 }
+.side-card-icon + div
+{
+	margin-bottom: 1rem;
+}
+.side-card-icon + div p
+{
+	font-size: 0.8rem;
+	color: #555;
+}
+.btn
+{
+	padding: 0.5rem 1rem;
+}
 .main-content
 {
 	width: calc(100vw - 345px);
