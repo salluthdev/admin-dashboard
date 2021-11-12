@@ -134,6 +134,8 @@ img
 .btn
 {
 	padding: 0.5rem 1rem;
+	border: none;
+	border-radius: 10px;
 }
 .main-content
 {
