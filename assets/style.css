@@ -105,10 +105,11 @@ img
 }
 .sidebar-card
 {
+	background: var(--main-accent);
 	text-align: center;
 	margin-top: 2rem;
 	padding: 1rem;
-	border-radius: 10px;
+	border-radius: 15px;
 	box-shadow: var(--shadow);
 }
 .main-content
