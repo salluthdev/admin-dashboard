@@ -170,3 +170,9 @@ img
 	margin-left: 345px;
 	padding: 1rem 1.2rem;
 }
+header
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
