@@ -114,6 +114,7 @@ img
 }
 .side-card-icon span
 {
+	display: inline-block;
 	font-size: 8rem;
 	color: var(--color-main);
 }
