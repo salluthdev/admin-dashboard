@@ -145,6 +145,7 @@ img
 .btn-block
 {
 	display: block;
+	width: 100%;
 }
 .main-content
 {
