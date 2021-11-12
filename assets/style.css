@@ -137,6 +137,11 @@ img
 	border: none;
 	border-radius: 10px;
 }
+.btn-main
+{
+	background: var(--color-main);
+	color: #fff;
+}
 .main-content
 {
 	width: calc(100vw - 345px);
