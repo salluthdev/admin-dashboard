@@ -112,6 +112,10 @@ img
 	border-radius: 15px;
 	box-shadow: var(--shadow);
 }
+.side-card-icon span
+{
+	font-size: 5rem;
+}
 .main-content
 {
 	width: calc(100vw - 345px);
