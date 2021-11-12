@@ -133,7 +133,7 @@ img
 }
 .btn
 {
-	padding: 0.5rem 1rem;
+	padding: 0.7rem 1rem;
 	border: none;
 	border-radius: 10px;
 }
@@ -141,6 +141,10 @@ img
 {
 	background: var(--color-main);
 	color: #fff;
+}
+.btn-block
+{
+	display: block;
 }
 .main-content
 {
