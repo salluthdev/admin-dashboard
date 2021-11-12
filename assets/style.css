@@ -112,6 +112,10 @@ img
 	border-radius: 15px;
 	box-shadow: var(--shadow);
 }
+.side-card-icon
+{
+	margin-bottom: 0.8rem;
+}
 .side-card-icon span
 {
 	display: inline-block;
