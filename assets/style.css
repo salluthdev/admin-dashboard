@@ -187,3 +187,7 @@ header
 	color: var(--color-main);
 	margin-right: 2rem;
 }
+.header-title
+{
+	color: var(--main-text);
+}
