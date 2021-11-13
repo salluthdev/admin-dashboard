@@ -200,4 +200,5 @@ header
 .header-title p span
 {
 	display: inline-block;
+	font-size: 1.2rem;
 }
