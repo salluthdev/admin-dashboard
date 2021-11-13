@@ -184,6 +184,7 @@ header
 .header-title label
 {
 	display: inline-block;
+	font-size: 1.8rem;
 	color: var(--color-main);
 	margin-right: 1rem;
 }
