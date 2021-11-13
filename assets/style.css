@@ -184,4 +184,5 @@ header
 .header-title label
 {
 	display: inline-block;
+	color: var(--color-main);
 }
