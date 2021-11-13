@@ -187,12 +187,12 @@ header
 	color: var(--color-main);
 	margin-right: 2rem;
 }
-.header-title
+.header-title h1
 {
 	color: var(--main-text);
 	font-weight: 600;
 }
 .header-title p
 {
-	color: #555;
+	color: #666;
 }
