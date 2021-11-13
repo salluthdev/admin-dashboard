@@ -181,3 +181,7 @@ header
 	display: flex;
 	align-items: center;
 }
+.header-title label
+{
+	display: inline-block;
+}
