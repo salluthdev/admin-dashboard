@@ -204,3 +204,7 @@ header
 	color: red;
 	margin-left: 0.5rem;
 }
+.header-action button
+{
+	padding: 0.7rem 2rem;
+}
