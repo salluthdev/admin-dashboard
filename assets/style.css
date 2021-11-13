@@ -192,3 +192,7 @@ header
 	color: var(--main-text);
 	font-weight: 600;
 }
+.header-title p
+{
+	color: #555;
+}
