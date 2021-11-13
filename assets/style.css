@@ -190,4 +190,5 @@ header
 .header-title
 {
 	color: var(--main-text);
+	font-weight: 600;
 }
