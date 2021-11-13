@@ -179,7 +179,6 @@ header
 .header-title
 {
 	display: flex;
-	align-items: center;
 }
 .header-title label
 {
