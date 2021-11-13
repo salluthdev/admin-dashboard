@@ -185,4 +185,5 @@ header
 {
 	display: inline-block;
 	color: var(--color-main);
+	margin-right: 1rem;
 }
