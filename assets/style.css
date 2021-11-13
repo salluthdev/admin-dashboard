@@ -176,11 +176,11 @@ header
 	justify-content: space-between;
 	align-items: center;
 }
-.header-title
+.header-title-wrapper
 {
 	display: flex;
 }
-.header-title label
+.header-title-wrapper label
 {
 	display: inline-block;
 	font-size: 1.8rem;
